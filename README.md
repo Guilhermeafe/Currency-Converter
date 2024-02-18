@@ -17,7 +17,6 @@
 <br>
 <br>
 <p align="center">Mobile Responsiveness :point_down:</p>
-<div align="center"
-  width="18px">
+<div align="center">
 <img src="https://github.com/Guilhermeafe/Currency-Converter/blob/master/assets/MOBILE%20CONVERSOR%20DE%20MOEDA.png?raw=true" center>
 </div>
