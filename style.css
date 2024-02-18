@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color:	#4682B4;
+    background-color:	#0000CD;
 }
 
 .logo-dinheiro {
@@ -92,7 +92,7 @@ input::placeholder {
 }
 
 button {
-  background:#4682B4;
+  background:#0000CD;
   border-radius: 5px;
   width: 100%;
   border: none;
@@ -113,7 +113,7 @@ button:active{
 
 .end {
   border-radius: 20px;
-  border: 1px solid #4682B4;
+  border: 1px solid #0000CD;
   margin-top: 36px;
   padding: 12px;
   display: flex;
